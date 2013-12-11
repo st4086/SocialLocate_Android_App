@@ -1,0 +1,37 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <com.facebook.widget.LoginButton
+            android:id="@+id/authButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="onClick_Refresh_Click"
+            android:text="Refresh" />
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="onClick_Pop_Click"
+            android:text="Pop" />
+
+    </LinearLayout>	
+
+        <com.example.fbdatafetch.DrawingView
+        android:id="@+id/drawview"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" />
+    
+</LinearLayout>

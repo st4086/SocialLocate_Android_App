@@ -1,0 +1,8 @@
+ABC;11/23/1988;New York, New York;en_US;[English, Mandarin Chinese];1;1;1;
+Joke;aaa;bob;ccc;dddd;2;3;4;
+Allen;11/23/1988;New York, New York;en_US;[English, Chinese];0;0;0;
+Wei;11/23/1988;New York, New York;en_US;[English, Mandarin Chinese];1;2;3;
+Natlie;aaa;bob;ccc;dddd;2;3;4;
+Shelly Lu;11/23/1988;New York, New York;en_US;[Mandarin Chinese, English];1;1;1;
+Kai-Wen Feng;11/23/1988;New York, New York;en_US;[Mandarin Chinese, English];5;5;5;%true
+Jerry Hasamonsta Wang;11/26/1988;New York, New York;en_US;[Mandarin Chinese, English];5;5;5;%true
